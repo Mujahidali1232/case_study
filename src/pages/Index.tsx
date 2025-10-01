@@ -12,6 +12,18 @@ import Alkhair from "../components/CaseStudies/Alkhair";
 import Qhmc from "../components/CaseStudies/Qhmc";
 import Cmc from "../components/CaseStudies/Cmc";
 import Doha from "../components/CaseStudies/Doha";
+import Itc from "../components/CaseStudies/Itc";
+import Artevo from "../components/CaseStudies/Artevo";
+import Rammy from "../components/CaseStudies/Rammy";
+import Flavor from "../components/CaseStudies/Flavor";
+import Hope from "../components/CaseStudies/Hope";
+import Patinamobile from "../components/CaseStudies/Patinamobile";
+import Gash from "../components/CaseStudies/Gash";
+import Sahteinmobile from "../components/CaseStudies/Sahteinmobile";
+import Spidermobile from "../components/CaseStudies/Spidermobile";
+import Lohamobile from "../components/CaseStudies/Lohamobile";
+import Bejwamobile from "../components/CaseStudies/Bejwamobile";
+
 
 const Index: React.FC = () => {
   return (
@@ -27,7 +39,19 @@ const Index: React.FC = () => {
            {/*<Alkhair/>*/}
            {/*/<Qhmc/>*/}
            {/*<Cmc/>*/}
-           <Doha/>
+           {/*<Doha/>*/}
+          {/*<Itc/>*/}
+           {/*<Artevo/>*/}
+          {/* <Rammy/>*/}
+          {/* <Flavor/>*/}
+           {/* <Hope/>*/}
+            {/*<Patinamobile/>*/}
+            {/*<Gash/>*/}
+            {/*<Sahteinmobile/>*/}
+            {/*<Spidermobile/>*/}
+            {/* <Lohamobile/>*/}
+             {/*<Bejwamobile/>*/}
+  
    </Box>
   );
 };

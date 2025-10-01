@@ -169,11 +169,246 @@ import Dohasection2inner from "../../assets/CaseStudies/Web/Doha/section2inner.p
 import Dohasection1inner from "../../assets/CaseStudies/Web/Doha/section1inner.png";
 import Dohasection3bg from "../../assets/CaseStudies/Web/Doha/section3bg.png";
 import Dohasection3inner from "../../assets/CaseStudies/Web/Doha/section3inner.png";
+import Dohasection4inner from "../../assets/CaseStudies/Web/Doha/section4inner.png";
+import Dohasection5bg from "../../assets/CaseStudies/Web/Doha/section5bg.png";
+import Dohasection5inner from "../../assets/CaseStudies/Web/Doha/section5inner.png";
+import Dohasection6inner from "../../assets/CaseStudies/Web/Doha/section6inner.png";
+import Dohasection7inner from "../../assets/CaseStudies/Web/Doha/section7inner.png";
+import Itcsectionbg from '../../assets/CaseStudies/Web/Itc/sectionbg.png';
+import Itcsectioninner from '../../assets/CaseStudies/Web/Itc/sectioninner.png';
+import Itcsection1inner from '../../assets/CaseStudies/Web/Itc/section1inner.png';
+import Itcsection2bg from '../../assets/CaseStudies/Web/Itc/section2bg.png';
+import Itcsection2inner from '../../assets/CaseStudies/Web/Itc/section2inner.png';
+import Itcsection3bg from '../../assets/CaseStudies/Web/Itc/section3bg.png';
+import Itcsection3inner from '../../assets/CaseStudies/Web/Itc/section3inner.png';
+import Itcsection4inner from '../../assets/CaseStudies/Web/Itc/section4inner.png';
+import Itcsection5inner from '../../assets/CaseStudies/Web/Itc/section5inner.png';
+import Itcsection6inner from '../../assets/CaseStudies/Web/Itc/section6inner.png';
+import Itcsection7inner from '../../assets/CaseStudies/Web/Itc/section7inner.png';
+import Artevosectionbg from '../../assets/CaseStudies/Web/Artevo/sectionbg.png';
+import Artevosectioninner from '../../assets/CaseStudies/Web/Artevo/sectioninner.png';
+import Artevosection1inner from '../../assets/CaseStudies/Web/Artevo/section1inner.png';
+import Artevosection2bg   from '../../assets/CaseStudies/Web/Artevo/section2bg.png';
+import Artevosection2inner from '../../assets/CaseStudies/Web/Artevo/section2inner.png';
+import Artevosection3inner from '../../assets/CaseStudies/Web/Artevo/section3inner.png';
+import Artevosection4inner from '../../assets/CaseStudies/Web/Artevo/section4inner.png';
+import Artevosection5inner from '../../assets/CaseStudies/Web/Artevo/section5inner.png';
+import Artevosection6inner from '../../assets/CaseStudies/Web/Artevo/section6inner.png';
+import Artevosection7inner from '../../assets/CaseStudies/Web/Artevo/section7inner.png';
+import Rammysectionbg from '../../assets/CaseStudies/Web/Rammy/sectionbg.png'; 
+import Rammysectioninner from '../../assets/CaseStudies/Web/Rammy/sectioninner.png'; 
+import Rammysection1inner from '../../assets/CaseStudies/Web/Rammy/section1inner.png';
+import Rammysection2bg from '../../assets/CaseStudies/Web/Rammy/section2bg.png';
+import Rammysection2inner from '../../assets/CaseStudies/Web/Rammy/section2inner.png';
+import Rammysection3bg from '../../assets/CaseStudies/Web/Rammy/section3bg.png';
+import Rammysection3inner from '../../assets/CaseStudies/Web/Rammy/section3inner.png';
+import Rammysection5bg from '../../assets/CaseStudies/Web/Rammy/section5bg.png';
+import Rammysection5inner from '../../assets/CaseStudies/Web/Rammy/section5inner.png';
+import Rammysection6inner from '../../assets/CaseStudies/Web/Rammy/section6inner.png';
+import Rammysection7inner from '../../assets/CaseStudies/Web/Rammy/section7inner.png';
+import Flavorsectionbg from '../../assets/CaseStudies/Web/Flavor/sectionbg.png';
+import Flavorsectioninner from '../../assets/CaseStudies/Web/Flavor/sectioninner.png';
+import Flavorsection1inner from '../../assets/CaseStudies/Web/Flavor/section1inner.png';
+import Flavorsection2inner from '../../assets/CaseStudies/Web/Flavor/section2inner.png';
+import Flavorsection3inner from '../../assets/CaseStudies/Web/Flavor/section3inner.png';
+import Flavorsection4inner from '../../assets/CaseStudies/Web/Flavor/section4inner.png';
+import Flavorsection5inner from '../../assets/CaseStudies/Web/Flavor/section5inner.png';
+import Flavorsection6inner from '../../assets/CaseStudies/Web/Flavor/section6inner.png';
+import Flavorsection7inner from '../../assets/CaseStudies/Web/Flavor/section7inner.png';
+import Patinamobilesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/sectionbg.png';
+import Patinamobilesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/sectioninner.png';
+import Patinamobilesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section1inner.png';
+import Patinamobilesection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section2bg.png';
+import Patinamobilesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section2inner.png';
+import Patinamobilesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section3inner.png';
+import Patinamobilesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section4inner.png';
+import Patinamobilesection5bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section5bg.png';
+import Patinamobilesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section5inner.png';
+import Patinamobilesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section6inner.png';
+import Patinamobilesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Patinamobile/section7inner.png';
+import Gashsectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/sectioninner.png';
+import Gashsectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/sectionbg.png';
+import Gashsection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section1inner.png';
+import Gashsection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section2bg.png';
+import Gashsection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section2inner.png';
+import Gashsection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section3inner.png';
+import Gashsection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section4inner.png';
+import Gashsection5bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section5bg.png';
+import Gashsection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section5inner.png';
+import Gashsection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section6inner.png';
+import Gashsection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Gash/section7inner.png';
+import Sahteinmobilesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/sectionbg.png';
+import Sahteinmobilesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/sectioninner.png';
+import Sahteinmobilesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section1inner.png';
+import Sahteinmobilesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section2inner.png';
+import Sahteinmobilesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section3inner.png';
+import Sahteinmobilesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section4inner.png';
+import Sahteinmobilesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section5inner.png';
+import Sahteinmobilesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section6inner.png';
+import Sahteinmobilesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Sahteinmobile/section7inner.png';
+import Spidermobilesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/sectionbg.png';
+import Spidermobilesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/sectioninner.png';
+import Spidermobilesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section1inner.png';
+import Spidermobilesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section2inner.png';
+import Spidermobilesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section3inner.png';
+import Spidermobilesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section4inner.png';
+import Spidermobilesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section5inner.png';
+import Spidermobilesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section6inner.png';
+import Spidermobilesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Spidermobile/section7inner.png';
+import Lohamobilesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/sectionbg.jpg';
+import Lohamobilesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/sectioninner.png';
+import Lohamobilesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section1inner.png';
+import Lohamobilesection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section2bg.jpg';
+import Lohamobilesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section2inner.png';
+import Lohamobilesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section3inner.png';
+import Lohamobilesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section4inner.png';
+import Lohamobilesection5bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section5bg.png';
+import Lohamobilesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Lohamobile/section5inner.png';
+import Bejwamobilesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/sectionbg.png';
+import Bejwamobilesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/sectioninner.png';
+import Bejwamobilesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section1inner.png';
+import Bejwamobilesection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section2bg.png';
+import Bejwamobilesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section2inner.png';
+import Bejwamobilesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section3inner.png';
+import Bejwamobilesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section4inner.png';
+import Bejwamobilesection5bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section5bg.png';
+import Bejwamobilesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section5inner.png';
+import Bejwamobilesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section6inner.png';
+import Bejwamobilesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Mobile/Bejwamobile/section7inner.png';
+import Hopesectionbg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/sectionbg.png';
+import Hopesectioninner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/sectioninner.png';
+import Hopesection1inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section1inner.png';
+import Hopesection3inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section3inner.png';
+import Hopesection4inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section4inner.png';
+import Hopesection5bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section5bg.png';
+import Hopesection5inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section5inner.png';
+import Hopesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section6inner.png';
+import Hopesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section7inner.png';
+import Hopesection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section2bg.png';
+import Hopesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section2inner.png';
+
 
 
 
 
 export {
+    Hopesection2inner,
+    Hopesection2bg,
+    Hopesection7inner,
+    Hopesection6inner,
+    Hopesection5inner,
+    Hopesection5bg,
+    Hopesection4inner,
+    Hopesection3inner,
+    Hopesection1inner,
+    Hopesectioninner,
+    Hopesectionbg,
+    Bejwamobilesection7inner,
+    Bejwamobilesection6inner,
+    Bejwamobilesection5inner,
+    Bejwamobilesection5bg,
+    Bejwamobilesection4inner,
+    Bejwamobilesection3inner,
+    Bejwamobilesection2inner,
+    Bejwamobilesection2bg,
+    Bejwamobilesection1inner,
+    Bejwamobilesectioninner,
+    Bejwamobilesectionbg,
+    Lohamobilesection5inner,
+    Lohamobilesection5bg,
+    Lohamobilesection4inner,
+    Lohamobilesection3inner,
+    Lohamobilesection2inner,
+    Lohamobilesection2bg,
+    Lohamobilesection1inner,
+    Lohamobilesectioninner,
+    Lohamobilesectionbg,
+    Spidermobilesection7inner,
+    Spidermobilesection6inner,
+    Spidermobilesection5inner,
+    Spidermobilesection4inner,
+    Spidermobilesection3inner,
+    Spidermobilesection2inner,
+    Spidermobilesection1inner,
+    Spidermobilesectioninner,
+    Spidermobilesectionbg,
+    Sahteinmobilesection7inner,
+    Sahteinmobilesection6inner,
+    Sahteinmobilesection5inner,
+    Sahteinmobilesection4inner,
+    Sahteinmobilesection3inner,
+    Sahteinmobilesection2inner,
+    Sahteinmobilesection1inner,
+    Sahteinmobilesectioninner,
+    Sahteinmobilesectionbg,
+    Gashsection7inner,
+    Gashsection6inner,
+    Gashsection5inner,
+    Gashsection5bg,
+    Gashsection4inner,
+    Gashsection3inner,
+    Gashsection2inner,
+    Gashsection2bg,
+    Gashsection1inner,
+    Gashsectionbg,
+    Gashsectioninner,
+    Patinamobilesection7inner,
+    Patinamobilesection6inner,
+    Patinamobilesection5inner,
+    Patinamobilesection5bg,
+    Patinamobilesection4inner,
+    Patinamobilesection3inner,
+    Patinamobilesection2inner,
+    Patinamobilesection2bg,
+    Patinamobilesection1inner,
+    Patinamobilesectioninner,
+    Patinamobilesectionbg,
+    Flavorsection7inner,
+    Flavorsection6inner,
+    Flavorsection5inner,
+    Flavorsection4inner,
+    Flavorsection3inner,
+    Flavorsection2inner,
+    Flavorsection1inner,
+    Flavorsectioninner, 
+    Flavorsectionbg ,
+    Rammysection7inner,
+    Rammysection6inner,
+    Rammysection5inner,
+    Rammysection5bg,
+    Rammysection3inner,
+    Rammysection3bg,
+    Rammysection2inner,
+    Rammysection2bg,
+    Rammysection1inner,
+    Rammysectioninner,
+    Rammysectionbg,
+    Artevosection7inner,
+    Artevosection6inner,
+    Artevosection5inner,
+    Artevosection4inner,
+    Artevosection3inner,
+    Artevosection2inner,
+    Artevosection2bg,
+    Artevosection1inner,
+    Artevosectioninner,
+    Artevosectionbg,
+    Itcsection7inner,
+    Itcsection6inner,
+    Itcsection5inner,
+    Itcsection4inner,
+    Itcsection3bg,
+    Itcsection3inner,
+    Itcsection2inner,
+    Itcsection2bg,
+    Itcsection1inner,
+    Itcsectioninner,
+    Itcsectionbg,
+    Dohasection7inner,
+    Dohasection6inner,
+    Dohasection5inner,
+    Dohasection5bg ,
+    Dohasection4inner,
     Dohasection3inner,
     Dohasection3bg,
     Dohasection1inner,

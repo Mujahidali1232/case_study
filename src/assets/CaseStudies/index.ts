@@ -286,12 +286,36 @@ import Hopesection6inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/Ca
 import Hopesection7inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section7inner.png';
 import Hopesection2bg from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section2bg.png';
 import Hopesection2inner from 'C:/React.tsx/kitchen-new/case_study/src/assets/CaseStudies/Web/Hope/section2inner.png';
+import MetcsectionBg from './Web/Metc/sectionbg.png';
+import Metcsectioninner from './Web/Metc/sectioninner.png';
+import Metcsection1inner from './Web/Metc/section1inner.png';
+import Metcsection2Bg from './Web/Metc/section2bg.png';
+import Metcsection2inner from './Web/Metc/section2inner.png';
+import Metcsection3inner from './Web/Metc/section3inner.png';  
+import Metcsection3Bg from './Web/Metc/section3bg.png';
+import Metcsection4inner from './Web/Metc/section4inner.png';  
+import Metcsection5Bg from './Web/Metc/section5bg.png';
+import Metcsection5inner from './Web/Metc/section5inner.png';  
+import Metcsection6inner from './Web/Metc/section6inner.png';  
+import Metcsection7inner from './Web/Metc/section7inner.png';  
 
 
 
 
 
 export {
+    Metcsection7inner,
+    Metcsection6inner,
+    Metcsection5inner,
+    Metcsection5Bg,
+    Metcsection4inner,
+    Metcsection3Bg,
+    Metcsection3inner,
+    Metcsection2inner,
+    Metcsection2Bg,
+    Metcsection1inner,
+    Metcsectioninner,
+    MetcsectionBg,
     Hopesection2inner,
     Hopesection2bg,
     Hopesection7inner,
